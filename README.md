@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zigao Wang</h1>
 <h3 align="center">A passionate Frontend developer from China</h3>
 
-- 🔭 I’m currently working on [Pitaya.Cyou Start Page](https://pitaya.cyou)
+- 🔭 I’m currently working on [Daztab](https://daztab.com)
 
 - 🌱 I’m currently learning **Javascript and a lot of things**
 
