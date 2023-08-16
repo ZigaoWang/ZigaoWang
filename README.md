@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zigao Wang</h1>
 <h3 align="center">A passionate, hyper-active Frontend developer from China</h3>
 
-- 🔭 I’m currently working on [Daztab](https://github.com/ZigaoWang/daztab) & [DazCheck](https://github.com/ZigaoWang/dazcheck)
+- 🔭 I’m currently working on [DazTab Lite](https://github.com/ZigaoWang/daztab-lite)
 
 - 🌱 I’m currently learning **Javascript and a lot of things**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **z@zigao.xyz**
 
-- 📄 Know about my experiences [https://zigao.xyz](https://zigao.xyz)
+- 📄 Know about my experiences [https://zigaow.com](https://zigaow.com)
 
 - ⚡ Fun fact **I like pizzas!**
 
