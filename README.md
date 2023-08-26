@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DazTab Lite](https://github.com/ZigaoWang/daztab-lite) & [My Portfolio](https://i.zigaow.com/)
 
-- 🌱 I’m currently learning **Javascript and NextJS**
+- 🌱 I’m currently learning **Javascript and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZigaoWang](https://github.com/ZigaoWang)
 
