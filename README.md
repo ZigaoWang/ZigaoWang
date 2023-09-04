@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, hyper-active frontend developer from China</h3>
 
 > [!NOTE]
-> Last Login: Sep 4
+> Last Login to GitHub (Updated): September 4, 2023
 
 - 🔭 I’m currently working on [DazTab Lite](https://github.com/ZigaoWang/daztab-lite) & [My Portfolio](https://i.zigaow.com/)
 
