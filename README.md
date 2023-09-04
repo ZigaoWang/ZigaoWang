@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zigao Wang</h1>
 <h3 align="center">A passionate, hyper-active frontend developer from China</h3>
 
+> [!NOTE]
+> Last Login: Sep 4
+
 - 🔭 I’m currently working on [DazTab Lite](https://github.com/ZigaoWang/daztab-lite) & [My Portfolio](https://i.zigaow.com/)
 
 - 🌱 I’m currently learning **Javascript and Next.js**
