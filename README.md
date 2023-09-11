@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **z@zigao.xyz**
 
-- 📄 Know about my experiences [https://zigaow.com](https://zigaow.com)
+- 📄 Know about my experiences [https://zigao.wang](https://zigao.wang)
 
 - ⚡ Fun fact **I like pizzas!**
 
