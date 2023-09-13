@@ -4,7 +4,7 @@
 > [!NOTE]
 > Last Login to GitHub (Updated): September 14, 2023
 
-- 🔭 I’m currently working on [DazTab Lite](https://github.com/ZigaoWang/daztab-lite) & [CO-BRIDGE Charity](https://cobridge.org.cn)
+- 🔭 I’m currently working on [DazTab](https://github.com/ZigaoWang/daztab) & [CO-BRIDGE Charity](https://cobridge.org.cn)
 
 - 🌱 I’m currently learning **Javascript and trying out backend PHP**
 
