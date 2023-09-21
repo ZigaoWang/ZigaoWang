@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **z@zigao.xyz**
 
-- ⚡ Fun fact **I like pizzzzzzza!**
+- ⚡ Fun fact **I like pizzzzzzzas!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
