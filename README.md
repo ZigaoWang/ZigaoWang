@@ -4,15 +4,17 @@
 > [!NOTE]
 > Last Login to GitHub (Updated): September 21, 2023
 
-- 🔭 I’m currently working on [DazTab](https://github.com/ZigaoWang/daztab) & [CO-BRIDGE Charity](https://cobridge.org.cn)
+- 🔭 I’m currently working on [王子高个人博客](https://github.com/ZigaoWang/zigaowang.github.io) & [CO-BRIDGE Charity](https://cobridge.org.cn)
 
-- 🌱 I’m currently learning **Javascript and trying out backend PHP**
+- 🌱 I’m currently learning **Javascript and Hexo**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZigaoWang](https://github.com/ZigaoWang)
 
 - 📫 How to reach me **z@zigao.xyz**
 
 - 📄 Know about my experiences [https://zigao.wang](https://zigao.wang)
+
+- 💼 Visit my blog website [https://zigaow.com](https://zigaow.com)
 
 - ⚡ Fun fact **I like pizzas!**
 
