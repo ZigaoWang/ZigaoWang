@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [王子高个人博客](https://github.com/ZigaoWang/zigaowang.github.io) & [CO-BRIDGE Charity Website](https://github.com/ZigaoWang/cobridge)
 
-- 🌱 I’m currently learning **Java and Hexo**
+- 🌱 I’m currently learning **Javascript and Hexo**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
