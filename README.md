@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, hyper-active student frontend developer from China</h3>
 
 > [!NOTE]
-> Last Login to GitHub (Updated): ***September 29, 2023***
+> Last Login to GitHub (Updated): ***September 30, 2023***
 
 - 🔭 I’m currently working on [王子高个人博客](https://github.com/ZigaoWang/zigaowang.github.io) & [CO-BRIDGE Charity Website](https://github.com/ZigaoWang/cobridge)
 
