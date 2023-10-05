@@ -4,7 +4,7 @@
 > [!NOTE]
 > Last Login to GitHub (Updated): ***October 5, 2023***
 
-- 🔭 I’m currently working on [王子高个人博客](https://github.com/ZigaoWang/zigaowang.github.io) & [CO-BRIDGE Charity Website](https://github.com/ZigaoWang/cobridge)
+- 🔭 I’m currently working on [王子高个人博客](https://github.com/ZigaoWang/zigaowang.github.io) & [ZigaoW Portfolio Website](https://github.com/ZigaoWang/zigaow)
 
 - 🌱 I’m currently learning **Javascript and Hexo**
 
