@@ -1,0 +1,29 @@
+name: Update Last Login Date
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Schedule it to run every day at midnight UTC
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          # Get the current date
+          CURRENT_DATE=$(date +"%b %d")
+          
+          # Update the README file with the current date
+          sed -i "s/Last Login: .*/Last Login: $CURRENT_DATE/" README.md
+
+          # Commit the changes
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update last login date to $CURRENT_DATE"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
