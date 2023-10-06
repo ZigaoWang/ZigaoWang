@@ -17,8 +17,8 @@ jobs:
           # Get the current date
           CURRENT_DATE=$(date +"%b %d")
           
-          # Update the README file with the current date
-          sed -i "s/Last Login: .*/Last Login: $CURRENT_DATE/" README.md
+          # Replace the placeholder with the current date in the README file
+          sed -i "s/<!-- LAST_LOGIN_DATE -->/Last Login: $CURRENT_DATE/" README.md
 
           # Commit the changes
           git config --local user.email "action@github.com"
