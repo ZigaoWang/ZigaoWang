@@ -2,7 +2,7 @@ name: Update Last Login Date
 
 on:
   schedule:
-    - cron: '* * * * *'  # Schedule it to run every minute
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
