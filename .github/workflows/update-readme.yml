@@ -2,7 +2,7 @@ name: Update Last Login Date
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Schedule it to run at 23:00 (11:00 PM) UTC
 
 jobs:
   update-readme:
@@ -17,8 +17,13 @@ jobs:
           # Get the current date
           CURRENT_DATE=$(date +"%b %d")
 
-          # Delete the content between the markers and insert the new date
-          sed -i "/Last Login: <!-- LAST_LOGIN_DATE START -->/,/<!-- LAST_LOGIN_DATE END -->/c\Last Login: <!-- LAST_LOGIN_DATE START --> $CURRENT_DATE <!-- LAST_LOGIN_DATE END -->" README.md
+          # Replace the text between the placeholders with the new date
+          sed -i "/<!-- LAST_LOGIN_DATE START -->/,/<!-- LAST_LOGIN_DATE END -->/ {
+            /<!-- LAST_LOGIN_DATE START -->/n;
+            /<!-- LAST_LOGIN_DATE END -->/ {
+              s/.*\n/Last Login: <!-- LAST_LOGIN_DATE START --> $CURRENT_DATE <!-- LAST_LOGIN_DATE END -->\n/
+            }
+          }" README.md
 
           # Commit the changes
           git config --local user.email "action@github.com"
