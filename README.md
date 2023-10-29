@@ -31,3 +31,4 @@
 
 <br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZigaoWang&layout=donut)
 ![ZigaoWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZigaoWang&show_icons=true&theme=tokyonight)
+[![ZigaoWang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZigaoWang)](https://github.com/anuraghazra/github-readme-stats)
