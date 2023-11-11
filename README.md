@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > Last Login to GitHub (Updated): Last Login: <!-- LAST_LOGIN_DATE START --> Nov 11 <!-- LAST_LOGIN_DATE END -->
-- 🔭 I’m currently working on [王子高个人博客](https://github.com/ZigaoWang/zigaowang.github.io) & [ZigaoW Portfolio Website](https://github.com/ZigaoWang/zigaow)
+- 🔭 I’m currently working on [FTC 23687 Pi Team Website](https://23687pi.com)
 
 - 🌱 I’m currently learning **Javascript and Hexo**
 
