@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, hyper-active student frontend developer from China</h3>
 
 > [!NOTE]
-> Last Login to GitHub (Updated): Last Login: <!-- LAST_LOGIN_DATE START --> Nov 13 <!-- LAST_LOGIN_DATE END -->
+> Last Login to GitHub (Updated): Last Login: <!-- LAST_LOGIN_DATE START --> Nov 14 <!-- LAST_LOGIN_DATE END -->
 - 🔭 I’m currently working on [FTC 23687 Pi Team Website](https://23687pi.com)
 
 - 🌱 I’m currently learning **Javascript and Hexo**
