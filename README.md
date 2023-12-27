@@ -5,7 +5,7 @@
 > Last Login to GitHub (Updated): Last Login: Dec 27
 - 🔭 I’m currently working on [New Zigao Wang's Personal Website](https://zigaow.com)
 
-- 🌱 I’m currently learning **Javascript and Hexo**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
