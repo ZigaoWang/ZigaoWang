@@ -2,7 +2,7 @@
 <h3 align="center">A passionate, hyper-active student frontend developer from China</h3>
 
 > [!NOTE]
-> Last Login to GitHub (Updated): Last Login: Jan 5
+> Last Login to GitHub (Updated): Last Login: Jan 6
 - 🔭 I’m currently working on [New Zigao Wang's Personal Website](https://zigaow.com)
 
 - 🌱 I’m currently learning **C++**
