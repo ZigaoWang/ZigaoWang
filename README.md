@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **z@zigao.xyz**
+- 📫 How to reach me **a@zigao.wang**
 
 - ⚡ Fun fact **I like pizzzzzzzas!**
 
