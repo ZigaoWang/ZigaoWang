@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://zigaow.com](https://zigaow.com)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, C++**
 
 - 📫 How to reach me **a@zigao.wang**
 
