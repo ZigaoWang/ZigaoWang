@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zigao Wang</h1>
 <h3 align="center">A passionate, hyper-active student frontend developer from China</h3>
 
+
 > [!NOTE]
-> Last Login to GitHub (Updated): Mar 23
-> 
-> How old am I? (Updated): 4790 Days
+> Following days are updated manually by Zigao everyday!
+
+> Last Login to GitHub: Mar 23
+
+> How old am I?: 4790 Days
+
+---
 
 - 🔭 I’m currently working on [Pacer Club Website](https://pacer.org.cn)
 
