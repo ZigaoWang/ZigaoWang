@@ -2,7 +2,9 @@
 <h3 align="center">A passionate, hyper-active student frontend developer from China</h3>
 
 > [!NOTE]
-> Last Login to GitHub (Updated): <!--dateStart-->Mar 23<!--dateEnd-->
+> Last Login to GitHub (Updated): Mar 23
+> How old am I? (Updated): 4790 Days
+
 - 🔭 I’m currently working on [Pacer Club Website](https://pacer.org.cn)
 
 - 🌱 I’m currently learning **C++**
