@@ -3,7 +3,7 @@
 
 
 > [!NOTE]
-> The following days are updated manually by Zigao every day!
+> The following days are updated manually by Zigao Wang every day!
 
 Last Login to GitHub: **May 27**
 
