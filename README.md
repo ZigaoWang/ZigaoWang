@@ -5,9 +5,9 @@
 > [!NOTE]
 > The following days are updated manually by Zigao Wang every day!
 
-Last Login to GitHub: **Jun 8**
+Last Login to GitHub: **Jun 10**
 
-How old am I? (Updated till the last login date above) **4806 Days**
+How old am I? (Updated till the last login date above) **4808 Days**
 
 ---
 
