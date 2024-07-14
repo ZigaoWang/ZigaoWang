@@ -13,13 +13,13 @@ How old am I? (Updated till the last login date above) **4842 Days**
 
 - 🔭 I’m currently working on [Pacer Club Website](https://pacer.org.cn) & [Low Resolution Fun](https://github.com/pacerclub/screen-domain)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
-- 📝 I regularly write articles on [https://zigaow.com](https://zigaow.com)
+- 📝 I regularly write articles on [https://zigao.cc](https://zigao.cc)
 
-- 💬 Ask me about **HTML, CSS, JS, C++**
+- 💬 Ask me about **HTML, CSS, JS, C++, Python**
 
 - 📫 How to reach me **a@zigao.wang**
 
