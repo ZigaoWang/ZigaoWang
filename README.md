@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zigaowang&label=Profile%20views&color=0e75b6&style=flat" alt="zigaowang" /> </p>
 
+> [!NOTE]
+> The following days are updated manually by Zigao Wang every day!
+
+Last Login to GitHub: **Jul 15**
+
+How old am I? (Updated till the last login date above) **4843 Days**
+
+---
+
 - 🔭 I’m currently working on [PySensei - AI Python Tutor](https://github.com/pacerclub/PySensei)
 
 - 🌱 I’m currently learning **Blender, Python**
