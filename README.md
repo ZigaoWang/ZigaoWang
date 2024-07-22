@@ -12,7 +12,7 @@ How old am I? (Updated till the last login date above) **4850 Days**
 
 ---
 
-- 🔭 I’m currently working on [PySensei - AI Python Tutor](https://github.com/pacerclub/PySensei)
+- 🔭 I’m currently working on [Zigao's AIGC Notebook](https://aigc.zigao.wang)
 
 - 🌱 I’m currently learning **Blender, Python**
 
