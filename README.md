@@ -12,7 +12,7 @@ How old am I? (Updated till the last login date above) **4863 Days**
 
 ---
 
-- 🔭 I’m currently working on [Zigao's AIGC Notebook](https://aigc.zigao.wang)
+- 🔭 I’m currently working on [AI Teacher](https://github.com/AI-Teacher)
 
 - 🌱 I’m currently learning **Blender, Python**
 
