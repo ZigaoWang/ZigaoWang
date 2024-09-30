@@ -12,15 +12,15 @@ How old am I? (Updated till the last login date above) **4920 Days**
 
 ---
 
-- 🔭 I’m currently working on [AI Teacher](https://github.com/AI-Teacher)
+- 🔭 I’m currently working on [Zap iOS App](https://github.com/ZigaoWang/Zap)
 
-- 🌱 I’m currently learning **Blender, Python**
+- 🌱 I’m currently learning **Swift UI (iOS App Development), Python**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
 - 📝 I regularly write articles on [https://zigao.cc](https://zigao.cc)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python, SwiftUI (learning right now)**
 
 - 📫 How to reach me **a@zigao.wang**
 
