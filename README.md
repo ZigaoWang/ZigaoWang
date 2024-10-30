@@ -12,9 +12,9 @@ How old am I? (Updated till the last login date above) **4950 Days**
 
 ---
 
-- 🔭 I’m currently working on [Zap iOS App](https://github.com/ZigaoWang/Zap)
+- 🔭 I’m currently working on [Zap iOS App](https://github.com/ZapNotesApp/Zap)
 
-- 🌱 I’m currently learning **Swift UI (iOS App Development), Python**
+- 🌱 I’m currently learning **Swift UI (iOS App Development), AI**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
@@ -24,7 +24,7 @@ How old am I? (Updated till the last login date above) **4950 Days**
 
 - 📫 How to reach me **a@zigao.wang**
 
-- ⚡ Fun fact **I like pizzzaaaaaas!!!**
+- ⚡ Fun fact **I like pizzzaaaaaas!!! (with pineapple!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
