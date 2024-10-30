@@ -24,7 +24,7 @@ How old am I? (Updated till the last login date above) **4950 Days**
 
 - 📫 How to reach me **a@zigao.wang**
 
-- ⚡ Fun fact **I like pizzzaaaaaas!!! (with pineapple!)**
+- ⚡ Fun fact **I like pizzzaaaaaas🍕!!! (with pineapple🍍!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
