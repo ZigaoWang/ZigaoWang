@@ -1,0 +1,19 @@
+name: GitHub Readme Guestbook
+
+on:
+  issues:
+    types: [opened, closed, reopened, deleted, edited]
+
+jobs:
+  update_guestbook:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+      - run: npm install
+      - name: Update guestbook
+        uses: muety/readme-guestbook@v1.0.10
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          max_entries: 10
