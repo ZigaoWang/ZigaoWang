@@ -14,3 +14,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           max_entries: 10
+          branch: main
