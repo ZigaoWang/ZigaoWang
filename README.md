@@ -27,10 +27,11 @@ How old am I? (Updated till the last login date above) **4954 Days**
 - ⚡ Fun fact **I like pizzzaaaaaas🍕!!! (with pineapple🍍!)**
 
 ## Guestbook
-<!--START_SECTION:guestbook-->
+
+<!--GUESTBOOK_LIST_BEGIN-->
+<!--GUESTBOOK_LIST_END-->
 
 Do you like my project or just want to say hi? Feel free to [post](https://github.com/ZigaoWang/ZigaoWang/issues/new?title=Guestbook) to my guestbook!
-<!--END_SECTION:guestbook-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
