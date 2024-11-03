@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-      - run: npm install
       - name: Update guestbook
         uses: muety/readme-guestbook@v1.0.10
         with:
