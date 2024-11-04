@@ -26,13 +26,6 @@ How old am I? (Updated till the last login date above) **4955 Days**
 
 - ⚡ Fun fact **I like pizzzaaaaaas🍕!!! (with pineapple🍍!)**
 
-## Guestbook
-
-<!--GUESTBOOK_LIST_BEGIN-->
-<!--GUESTBOOK_LIST_END-->
-
-Do you like my project or just want to say hi? Feel free to [post](https://github.com/ZigaoWang/ZigaoWang/issues/new?title=Guestbook) to my guestbook!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zigaow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zigaow" height="30" width="40" /></a>
