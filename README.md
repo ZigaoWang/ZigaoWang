@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zigao Wang</h1>
 <h3 align="center">A passionate student developer and tech enthusiast from China</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zigaowang&label=Profile%20views&color=0e75b6&style=flat" alt="zigaowang" /> <img src="https://waka.hackclub.com/api/badge/U06FTV6SQAH/U06FTV6SQAH/interval:30_days?label=last%2030d"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zigaowang&label=Profile%20views&color=0e75b6&style=flat" alt="zigaowang" /> <img src="https://waka.hackclub.com/api/badge/U06FTV6SQAH/interval:30_days?label=last%2030d"></p>
 
 > [!NOTE]
 > The following days are updated manually by Zigao Wang every day!
