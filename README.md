@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=zigaowang&label=Profile%20views&color=0e75b6&style=flat" alt="zigaowang"/>
-  <img src="https://waka.hackclub.com/api/badge/U06FTV6SQAH/U06FTV6SQAH/interval:30_days?label=last%2030d"/>
+  <img src="https://waka.hackclub.com/api/badge/U06FTV6SQAH/U06FTV6SQAH?interval=30_days&label=last%2030d" alt="WakaTime Badge"/>
 </p>
 
 > [!NOTE]
