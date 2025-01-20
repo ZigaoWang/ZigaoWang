@@ -15,7 +15,7 @@ How old am I? (Updated till the last login date above) **5033 Days**
 
 ---
 
-- 🔭 I’m currently working on [Zap iOS App](https://github.com/ZapNotesApp/Zap)
+- 🔭 I’m currently working on [Zap Notes iOS App](https://github.com/ZapNotesApp/ZapNotesApp)
 
 - 🌱 I’m currently learning **Swift UI (iOS App Development), AI**
 
