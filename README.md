@@ -9,9 +9,9 @@
 > [!NOTE]
 > The following days are updated manually by Zigao Wang every day!
 
-Last Login to GitHub: **Jan 28**
+Last Login to GitHub: **Jan 29**
 
-How old am I? (Updated till the last login date above) **5040  Days**
+How old am I? (Updated till the last login date above) **5041 Days**
 
 ---
 
@@ -27,7 +27,7 @@ How old am I? (Updated till the last login date above) **5040  Days**
 
 - 📫 How to reach me **a@zigao.wang**
 
-- ⚡ Fun fact: I prefer tabs over spaces and pizzas with pineapple on it
+- ⚡ Fun fact: I prefer tabs over spaces
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
