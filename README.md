@@ -15,9 +15,9 @@ How old am I? (Updated till the last login date above) **5064 Days**
 
 ---
 
-- 🔭 I’m currently working on [Zap Notes iOS App](https://github.com/ZapNotesApp/ZapNotesApp)
+- 🔭 I’m currently working on [Zebra](https://github.com/pacerclub/zebra)
 
-- 🌱 I’m currently learning **Swift UI (iOS App Development), AI**
+- 🌱 I’m currently learning **Swift UI (iOS App Development), AI\ML**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
