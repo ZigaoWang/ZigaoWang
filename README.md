@@ -9,15 +9,15 @@
 > [!NOTE]
 > The following days are updated manually by Zigao Wang every day!
 
-Last Login to GitHub: **Mar 5**
+Last Login to GitHub: **Mar 6**
 
-How old am I? (Updated till the last login date above) **5076 Days**
+How old am I? (Updated till the last login date above) **5077 Days**
 
 ---
 
-- 🔭 I’m currently working on [Zebra](https://github.com/pacerclub/zebra)
+- 🔭 I’m currently working on [ZhiDao AI](https://github.com/ZigaoWang/ZhiDaoAI)
 
-- 🌱 I’m currently learning **Swift UI (iOS App Development), AI\ML**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
