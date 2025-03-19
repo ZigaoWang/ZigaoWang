@@ -15,7 +15,7 @@ How old am I? (Updated till the last login date above) **5091 Days**
 
 ---
 
-- 🔭 I’m currently working on [ZhiDao AI](https://github.com/ZigaoWang/ZhiDaoAI)
+- 🔭 I’m currently working on [ZhiDao AI](https://github.com/ZigaoWang/zhidao-frontend)
 
 - 🌱 I’m currently learning **AI**
 
