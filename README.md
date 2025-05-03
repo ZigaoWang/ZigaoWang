@@ -23,7 +23,7 @@ How old am I? (Updated till the last login date above) **5135 Days**
 
 - 📝 I regularly write articles on [https://zigao.cc](https://zigao.cc)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python, SwiftUI**
+- 💬 Ask me about **HTML/CSS/JS, Swift**
 
 - 📫 How to reach me **a@zigao.wang**
 
