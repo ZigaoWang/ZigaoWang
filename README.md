@@ -9,21 +9,21 @@
 > [!NOTE]
 > The following days are updated manually by Zigao Wang every day!
 
-Last Login to GitHub: **May 9**
+Last Login to GitHub: **May 10**
 
-How old am I? (Updated till the last login date above) **5141 Days**
+How old am I? (Updated till the last login date above) **5142 Days**
 
 ---
 
 - 🔭 I’m currently working on [Zap Know AI iOS](https://github.com/ZigaoWang/zapknowai-ios)
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **something cool**
 
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 
 - 📝 I regularly write articles on [https://zigao.cc](https://zigao.cc)
 
-- 💬 Ask me about **HTML/CSS/JS, Swift**
+- 💬 Ask me about **HTML/CSS/JS, Swift, Full-stack development**
 
 - 📫 How to reach me **a@zigao.wang**
 
