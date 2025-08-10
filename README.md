@@ -93,7 +93,6 @@
 
 ---
 
-- 💬 Ask me about **HTML/CSS/JS, Swift, Full-stack development**
 - ⚡ Fun fact: I prefer tabs over spaces
 
 ---
