@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on exciting projects like [Zap Know AI iOS](https://github.com/ZigaoWang/zapknowai-ios) and the ones featured below!
 - 🌱 I’m currently learning **something cool** <!-- Feel free to update this! -->
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
-- 📝 I regularly write articles on [https://zigao.cc](https://zigao.cc)
+- 📝 I regularly (hmmm...not anymore) write articles on [https://zigao.cc](https://zigao.cc)
 
 ---
 
