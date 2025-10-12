@@ -12,7 +12,7 @@
 > [!NOTE]
 > The "Last Active" date below is updated manually by Zigao Wang!
 
-💡 Last Active on GitHub: **2025-10-11**
+💡 Last Active on GitHub: **2025-10-12**
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 - 🔭 I’m currently working on exciting projects like [Zap Know AI iOS](https://github.com/ZigaoWang/zapknowai-ios) and the ones featured below!
-- 🌱 I’m currently learning **something cool** <!-- Feel free to update this! -->
+- 🌱 I’m currently learning **something cool**
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
 - 📝 I regularly (hmmm...not anymore) write articles on [https://zigao.cc](https://zigao.cc)
 
