@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on exciting projects like [Out Loud App](https://github.com/ZigaoWang/out-loud-app) and the ones featured below!
 - 🌱 I’m currently learning **something cool**
 - 👨‍💻 All of my projects are available at [https://zigao.wang](https://zigao.wang)
-- 📝 I regularly (hmmm...not anymore) write articles on [https://zigao.cc](https://zigao.cc)
+- 📝 I regularly write articles on [https://zigao.cc](https://zigao.cc)
 
 ---
 
