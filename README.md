@@ -12,7 +12,7 @@
 > [!NOTE]
 > The "Last Active" date below is updated manually by Zigao Wang!
 
-Last Active on GitHub: **2026-01-01 (Happy New Year!)**
+Last Active on GitHub: **2026-01-03**
 
 ---
 
