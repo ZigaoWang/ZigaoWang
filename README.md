@@ -23,7 +23,7 @@ Last Active on GitHub: **2026-02-24**
 
 ---
 
-- I’m currently working on exciting projects like [AvoidXRay.com](https://github.com/ZigaoWang/avoidxray.com) and the ones featured below!
+- I’m currently working on exciting projects like [AvoidXray.com](https://github.com/ZigaoWang/AvoidXray.com) and the ones featured below!
 - I’m currently learning **something cool**
 - All of my projects are available at [https://zigao.wang](https://zigao.wang)
 - I regularly write articles on [https://zigao.cc](https://zigao.cc)
