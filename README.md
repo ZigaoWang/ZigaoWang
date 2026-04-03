@@ -65,6 +65,28 @@ Last Active on GitHub: **2026-04-03**
   </p>
 </details>
 
+<details>
+  <summary><strong>Out Loud</strong> - AI app for recording thoughts</summary>
+  <br/>
+  <p>
+    Voice recording with real-time transcription and AI analysis for capturing and processing your thoughts.
+    <br/>
+    <a href="https://out-loud.app/" target="_blank"><strong>Website</strong></a> | 
+    <a href="https://github.com/ZigaoWang/out-loud-app" target="_blank"><strong>GitHub</strong></a>
+  </p>
+</details>
+
+<details>
+  <summary><strong>AvoidXray.com</strong> - Film photography community platform</summary>
+  <br/>
+  <p>
+    A community platform for film photography enthusiasts to protect, share, and discover analog photography.
+    <br/>
+    <a href="https://avoidxray.com/" target="_blank"><strong>Website</strong></a> | 
+    <a href="https://github.com/ZigaoWang/avoidxray.com" target="_blank"><strong>GitHub</strong></a>
+  </p>
+</details>
+
 ---
 
 <h3 align="left">Connect with me:</h3>
