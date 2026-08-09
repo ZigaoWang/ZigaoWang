@@ -26,7 +26,7 @@ Last Active on GitHub: **2026-08-09**
 - I’m currently working on exciting projects like [Reedar](https://github.com/ZigaoWang/reedar) and the ones featured below!
 - I’m currently learning **something cool**
 - All of my projects are available at [https://zigao.wang](https://zigao.wang)
-- I regularly write articles on [https://blog.zigao.wang](https://blog.zigao.wang)
+- I regularly write articles on [https://zigao.wang/blog](https://zigao.wang/blog)
 
 ---
 
