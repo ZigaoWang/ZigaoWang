@@ -7,4 +7,4 @@
 
 <p align="center">Projects, writing, and film photos all live at <b><a href="https://www.zigao.wang">www.zigao.wang</a></b>.</p>
 
-<p align="center"><sub>Updated by hand, every day since 2023 · <b>2026-10-06</b></sub></p>
+<p align="center"><sub>Updated by hand, every day since 2023 · <b>2026-10-07</b></sub></p>
